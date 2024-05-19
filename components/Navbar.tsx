@@ -12,11 +12,11 @@ const Navbar = () => {
           src="/icons/log.png"
           width={32}
           height={32}
-          alt="yoom logo"
+          alt="CodeVision Interviewer Logo" 
           className="max-sm:size-10"
         />
         <p className="text-[26px] font-extrabold text-white max-sm:hidden">
-          CodeVision
+          CodeVision 
         </p>
       </Link>
       <div className="flex-between gap-5">
